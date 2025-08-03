@@ -19,10 +19,10 @@ I solve **one problem every day** and update this repo regularly.
 
 ## 📅 Daily Log
 
-| Date       | Problem Name   | Difficulty | Language   |
-| ---------- | -------------- | ---------- | ---------- |
-| 2025-07-10 | Pete The Baker | Medium     | JavaScript |
-| ...        | ...            | ...        | ...        |
+| Date       | Problem Name            | Difficulty | Language   |
+| ---------- | ----------------------- | ---------- | ---------- |
+| 2025-07-11 | A Chain Adding Function | Medium     | JavaScript |
+| ...        | ...                     | ...        | ...        |
 
 ---
 
