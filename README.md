@@ -13,16 +13,7 @@ Each file is named after the question and includes:
 - The question description as a comment
 - The solution code
 
-## 🚀 My Progress
 
-I solve **one problem every day** and update this repo regularly.
-
-## 📅 Daily Log
-
-| Date       | Problem Name            | Difficulty | Language   |
-| ---------- | ----------------------- | ---------- | ---------- |
-| 2025-07-11 | A Chain Adding Function | Medium     | JavaScript |
-| ...        | ...                     | ...        | ...        |
 
 ---
 
